@@ -31,6 +31,5 @@ export default defineNuxtConfig({
         priority: 0.8
       }
     ]
-  },
-  compatibilityDate: '2025-03-25'
+  }
 })
