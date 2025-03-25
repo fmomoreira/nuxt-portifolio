@@ -7,10 +7,13 @@
       </div>
     </nav>
     <NuxtPage />
+    <SpeedInsights />
   </div>
 </template>
 
 <script setup>
+import { SpeedInsights } from "@vercel/speed-insights/nuxt"
+
 // Configuração global do head
 useHead({
   titleTemplate: '%s - Portfolio',
