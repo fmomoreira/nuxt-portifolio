@@ -16,6 +16,6 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: 'https://nuxt-portifolio-murex.vercel.app'
+    url: 'https://www.ecoiron.com.br/'
   }
 })
