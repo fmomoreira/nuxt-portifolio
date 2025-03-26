@@ -5,7 +5,7 @@
       <div class="w-full md:w-1/3 text-center">
         <div class="rounded-lg overflow-hidden shadow-lg mb-4">
           <img
-            src="/img/profile.jpg"
+            src="/img/profile.webp"
             alt="Felipe Moreira"
             class="w-full object-cover"
           />
